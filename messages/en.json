@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "description": "Daniel Pedroza's personal website and portfolio"
+  },
+  "Navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "guestbook": "Guestbook",
+    "particles-disabled": "Particles Disabled",
+    "particles-enabled": "Particles Enabled"
+  },
+  "Home": {
+    "title": "Hello World, It's Daniel!",
+    "subtitle": "I'm a Computer Systems Engineering student.",
+    "projects": "See my projects"
+  },
+  "Projects": {
+    "title": "Project Previews",
+    "metadata": {
+      "title": "Project Previews",
+      "description": "Daniel Pedroza's project previews"
+    }
+  },
+  "Project": {
+    "repo-link": {
+      "visit": "Source Code",
+      "contribute": "Contribute to this project"
+    },
+    "live-link": "Google Play",
+    "tech-stack": "Tech Stack",
+    "contributors": "Contributors",
+    "status": {
+      "completed": "Completed",
+      "in-progress": "In Progress",
+      "planned": "Planned"
+    }
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "link": "Go to Home Page"
+  },
+  "ProjectNotFoundPage": {
+    "title": "Project Not Found",
+    "link": "Go to Projects Page"
+  },
+  "About": {
+    "metadata": {
+      "title": "About",
+      "description": "About page containing contact information and a short bio."
+    },
+    "GuestBook": {
+      "id": "guestbook",
+      "title": "Guest Book",
+      "email": "Don't worry, I won't share your email with anyone.",
+      "signout": "Sign Out",
+      "googleSignin": "Signin with Google",
+      "githubSignin": "Signin with GitHub",
+      "signing": "Signing...",
+      "sign": "Sign",
+      "placeholder": "Leave a message..."
+    },
+    "adventure": {
+      "title": "A little about me",
+      "p1": "Hi, I’m Daniel, a student of Computer Systems Engineering at the Polytechnic University of Aguascalientes. My passion for programming began in high school, where I discovered the world of code.",
+      "p2": "When I’m not programming, you’ll find me enjoying music, always exploring new genres and artists. I also love the freedom of riding my bike, exploring paths, and discovering new places.",
+      "p3": "My curiosity and enthusiasm for technology drive me to keep learning and growing in this exciting field. I’m always looking for new challenges and opportunities to innovate!"
+    },
+    "education": {
+      "title": "My Education"
+    },
+    "jobs": {
+      "title": "Work experience"
+    },
+    "github-contributions": {
+      "title": "My GitHub Contributions"
+    },
+    "taken-courses": {
+      "title": "Taken Courses",
+      "course-page": "Course Page"
+    }
+  }
+}
