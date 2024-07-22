@@ -9,6 +9,7 @@ import withNextIntl from "next-intl/plugin";
 const nextConfig = {
   output: 'export',
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         hostname: "skillicons.dev",
