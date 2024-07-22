@@ -79,7 +79,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: build-output
-          path: .next
+          path: ./out
 
   # Deployment job
   deploy:
