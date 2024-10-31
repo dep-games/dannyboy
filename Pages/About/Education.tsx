@@ -56,8 +56,8 @@ export default function Education({
       },
       place: "Universidad Politécnica de Aguascalientes",
       description: {
-        en: "Currently in the 5th quarter. The program focuses on designing, developing, and implementing information systems in organizations, applying information and communication technologies to ensure efficiency in productive processes.",
-        es: "Actualmente cursando el 5° cuatrimestre. La carrera se enfoca en el diseño, desarrollo e implementación de sistemas informáticos en las organizaciones, aplicando tecnologías de información y comunicaciones para asegurar la eficiencia en los procesos productivos.",
+        en: "Currently in the 6th quarter. The program focuses on designing, developing, and implementing information systems in organizations, applying information and communication technologies to ensure efficiency in productive processes.",
+        es: "Actualmente cursando el 6° cuatrimestre. La carrera se enfoca en el diseño, desarrollo e implementación de sistemas informáticos en las organizaciones, aplicando tecnologías de información y comunicaciones para asegurar la eficiencia en los procesos productivos.",
       },
       yearStart: new Date(2022, 8, 14),
       //yearEnd: new Date(2025, 11, 5),
